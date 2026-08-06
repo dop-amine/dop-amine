@@ -40,7 +40,7 @@ The things that took more than one attempt, including the attempts that failed.
 
 ## Sound
 
-I make music too, under the same name.
+I make music too.
 
-[SoundCloud](https://soundcloud.com/dop_amine_music) · [Instagram](https://www.instagram.com/dop_amine_) · [dop-amine.com/music](https://dop-amine.com/music)
+[SoundCloud](https://soundcloud.com/dop_amine_music) · [dop-amine.com/music](https://dop-amine.com/music)
 
