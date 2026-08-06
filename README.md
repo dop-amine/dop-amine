@@ -12,13 +12,19 @@ ecosystems, build internal platforms and full stack applications.
 
 ## Things I've built
 
-| | |
-|---|---|
-| **[tmux-claude-status](https://github.com/dop-amine/tmux-claude-status)** | Per-window tmux tab badges for Claude Code sessions: working, blocked on you, background shells running, or ready to read. Ships as a tmux plugin and a Claude Code plugin. <br/>[Site](https://dop-amine.github.io/tmux-claude-status/) · [Write-up](https://dop-amine.com/blog/claude-code-tmux-badges) |
-| **[figma-kit](https://github.com/dop-amine/figma-kit)** | A Go CLI with 150+ commands that lets AI agents drive Figma through natural language. <br/>[Site](https://dop-amine.github.io/figma-kit/) · `brew install dop-amine/tap/figma-kit` |
-| **J.A.R.V.I.S.** | Self-hosted AI assistant and home automation system running on my own hardware. Voice, presence, media, and a mobile robot, all privacy-first. <br/>[Read about it](https://dop-amine.com/projects/jarvis) |
-| **nemo.fm** | A sync platform connecting artists with music supervisors and content creators. A home for music that refuses to become content. <br/>[Read about it](https://dop-amine.com/projects/nemo) |
-| **[plex-itunes-sync](https://github.com/dop-amine/plex-itunes-sync)** | Syncs a lifetime iTunes library to Plex: collections, track playlists, and the record label metadata Plex drops on the floor. |
+**[tmux-claude-status](https://github.com/dop-amine/tmux-claude-status)** — Per-window tmux tab badges for Claude Code sessions: working, blocked on you, background shells running, or ready to read. Ships as a tmux plugin and a Claude Code plugin.
+[Site](https://dop-amine.github.io/tmux-claude-status/) · [Write-up](https://dop-amine.com/blog/claude-code-tmux-badges)
+
+**[figma-kit](https://github.com/dop-amine/figma-kit)** — A Go CLI with 150+ commands that lets AI agents drive Figma through natural language.
+[Site](https://dop-amine.github.io/figma-kit/) · `brew install dop-amine/tap/figma-kit`
+
+**J.A.R.V.I.S.** — Self-hosted AI assistant and home automation system running on my own hardware. Voice, presence, media, and a mobile robot, all privacy-first.
+[Read about it](https://dop-amine.com/projects/jarvis)
+
+**nemo.fm** — A sync platform connecting artists with music supervisors and content creators. A home for music that refuses to become content.
+[Read about it](https://dop-amine.com/projects/nemo)
+
+**[plex-itunes-sync](https://github.com/dop-amine/plex-itunes-sync)** — Syncs a lifetime iTunes library to Plex: collections, track playlists, and the record label metadata Plex drops on the floor.
 
 ## Writing
 
