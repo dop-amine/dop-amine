@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dop-amine
+  title: Profile
+  description: >-
+    The GitHub profile README — the public index of who I am and what I have
+    built. It is a shop window, not a system: nothing depends on it and
+    nothing it names is authoritative.
+  annotations:
+    github.com/project-slug: dop-amine/dop-amine
+    dop-amine.com/tier: '3'
+  links:
+    - url: https://dop-amine.com
+      title: Site
+      icon: dashboard
+spec:
+  type: site
+  lifecycle: production
+  owner: dop-amine
